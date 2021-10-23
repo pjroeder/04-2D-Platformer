@@ -1,6 +1,6 @@
-# 2D-Platformer-Character
+# 04-2D-Platformer
 
-A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
+Project 4: Character and level but the player does not collide with level
 
 ## Implementation
 Built using Godot 3.2.3
@@ -13,8 +13,5 @@ None
 ## Future Development
 None
 
-## Extra Credit
-None
-
 ## Created by 
-Jason Francis
+Peyton Roeder
